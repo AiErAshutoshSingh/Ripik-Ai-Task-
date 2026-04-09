@@ -1,0 +1,8 @@
+
+path: C:\Users\ASUS\Desktop\Dataset\train
+train: images
+val: images
+
+names:
+  0: scratch
+  1: edge_damage
